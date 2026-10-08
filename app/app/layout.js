@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Nexa AI",
+  title: "Nexa AI Study Assistant"
   description: "Your AI study assistant"
 };
 
