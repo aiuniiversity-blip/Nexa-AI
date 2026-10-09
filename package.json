@@ -5,11 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  }
+    "next": "15.0.0",
+    "react": "19.0.0-rc-66cd7d3d8-20241204",
+    "react-dom": "19.0.0-rc-66cd7d3d8-20241204",
+    "openai": "^4.67.0"
+  },
+  "devDependencies": {}
 }
